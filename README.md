@@ -4,7 +4,7 @@ REST API for creating and viewing receipts with user registration and authentica
 ## Steps to run app
 
 ### Clone repository
-```[git clone https://github.com/Aleksandra0001/Checkbox.git](https://github.com/Aleksandra0001/checkbox-test-task.git)```
+```https://github.com/Aleksandra0001/checkbox-test-task.git```
 
 ### Create file .env and fill credentials like in file env.example
 
